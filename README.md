@@ -1,5 +1,3 @@
 # demo
 
-Hello 
-
-Testing git
+Testing git with codes
